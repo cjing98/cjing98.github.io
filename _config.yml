@@ -58,3 +58,4 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
+  - _includes/projects.md
