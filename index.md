@@ -26,15 +26,6 @@ Entrepreneurship Competition
 - **[Sept. 2022]** <a href="https://subsites.chinadaily.com.cn/YunnanUniversity/2017-11/17/c_111548.htm">*China National Scholarship*</a> for undergraduate student
 
 
-<!-- {% include_relative _includes/publications.md %} -->
-
-
-<!-- {% include_relative _includes/projects.md %} -->
-
-
-<!-- {% include_relative _includes/talks.md %} -->
-
-
 <!-- ## Collaboration -->
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
