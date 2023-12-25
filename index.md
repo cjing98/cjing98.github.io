@@ -4,25 +4,23 @@ layout: homepage
 
 ## About Me
 
-I'm a <a href="https://en.wikipedia.org/wiki/Electrical_engineering"> Electrical Engineering</a> senior student at <a href="https://www.dlmu.edu.cn/"> Dalian Maritime University</a>'s <a href="https://cbdq.dlmu.edu.cn/"> College of Marine Electrical Engineering</a>. After attending the <a href="https://en.wikipedia.org/wiki/Gaokao"> Chinese College Entrance Examination</a>, which is also known as Gaokao, I was admitted to Marine Electrical and Electronic Engineering at Dalian Maritime University and successfully switched my major due to my academic interests by the end of the first semester.
+I'm a <a href="https://en.wikipedia.org/wiki/Electrical_engineering"> Electrical Engineering</a> senior student at <a href="https://www.dlmu.edu.cn/"> Dalian Maritime University</a>'s <a href="https://cbdq.dlmu.edu.cn/"> College of Marine Electrical Engineering</a>. After attending the <a href="https://en.wikipedia.org/wiki/Gaokao"> Chinese College Entrance Examination</a>, which is also known as Gaokao, I was admitted to Marine Electrical and Electronic Engineering at Dalian Maritime University and switched my major due to my academic interests by the end of the first semester.
 
 In the summer of 2023, I gave up the opportunity to be directly admitted to graduate program at top universities in China and decided to pursue my academic goals overseas. 
 I will join the <a href="https://cpes.vt.edu/"> Center for Power Electronics Systems</a> at <a href="https://www.vt.edu/"> Virginia Tech</a> for my PhD starting in the fall semester of 2024, under the supervision of Prof. <a href="https://cpes.vt.edu/"> Qiang Li</a>. 
 
 <!-- This kind of mark can hide sentences -->
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+Outside of academia, I am an amateur <a href="https://en.wikipedia.org/wiki/Bamboo_flute"> bamboo flute</a> player and a passionate basketbal player</a>. In addition, I am also interested in playing guitar, and photography.
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **DC-DC Converter:** topology and control for LLC resonant converter
 
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+- **[Sept. 2023]** <a href="https://www.dlmu.edu.cn/info/1089/57358.htm">*Top Ten Undergraduate Students and Present's Scholarship*</a> at Dalian Maritime University
+- **[Sept. 2023]** <a href="[https://www.dlmu.edu.cn/info/1089/57358.htm](https://subsites.chinadaily.com.cn/YunnanUniversity/2017-11/17/c_111548.htm)">*China National Scholarship*</a> for undergraduate student
 
 
 <!-- {% include_relative _includes/publications.md %} -->
