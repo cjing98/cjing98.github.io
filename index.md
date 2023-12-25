@@ -11,7 +11,7 @@ I will join the <a href="https://cpes.vt.edu/"> Center for Power Electronics Sys
 
 <!-- This kind of mark can hide sentences -->
 
-Outside of academia, I am an amateur <a href="https://en.wikipedia.org/wiki/Bamboo_flute"> bamboo flute</a> player and a passionate basketball player</a>. In addition, I am also interested in photography and playing guitar.
+Outside of academia, I am an amateur <a href="https://en.wikipedia.org/wiki/Bamboo_flute"> bamboo flute</a> player and a passionate basketball player. In addition, I am also interested in photography and playing guitar.
 
 
 ## Research Interests
