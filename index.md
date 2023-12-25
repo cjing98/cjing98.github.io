@@ -54,5 +54,3 @@ Entrepreneurship Competition
 - <a href="">*Flybook for DMUers*</a> Coming soon!
 <!-- - <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang -->
 
-
-
