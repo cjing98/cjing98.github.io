@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<!-- 
+
 <li>
 <div class="pub-row">
 
@@ -25,12 +25,12 @@
     </div>
   </div>
 </div>
-</li> -->
+</li> 
   
 <br>
 
 
-<!-- 
+
 <li>
 <div class="pub-row">
 
@@ -52,11 +52,11 @@
     </div>
   </div>
 </div>
-</li> -->
+</li> 
   
 <br>
 
-<!-- 
+
 <li>
 <div class="pub-row">
 
@@ -78,11 +78,11 @@
     </div>
   </div>
 </div>
-</li> -->
+</li> 
   
 <br>
 
-<!-- 
+
 <li>
 <div class="pub-row">
 
@@ -104,11 +104,11 @@
     </div>
   </div>
 </div>
-</li> -->
+</li> 
   
 <br>
 
-<!-- 
+
 <li>
 <div class="pub-row">
 
@@ -130,7 +130,7 @@
     </div>
   </div>
 </div>
-</li> -->
+</li> 
   
 
 </ol>
