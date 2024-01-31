@@ -12,14 +12,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="" target="_blank">Topic: Greener Shipping</a></div>
+    <div class="title"><a href="https://iamu-edu.org/student-forum-2023/" target="_blank">Topic: Greener Shipping</a></div>
     <div class="author">Group Member: Alicja Krawczyk, Anders Pedersen, Bradley Barker, Hector Martinez, <strong>Kaisen Yang</strong>, Kashish, Otari Tvaradze, Pham Thi An Thu, Paul Szwed*, Phillip Belcher*</div>
-    <div class="periodical"><em><a href="https://iamu-edu.org/student-forum-2023/" target="_blank">IAMU Student Forum</a>, 2023, IMO Headquarter, London, UK.</em></div>
+    <div class="periodical"><em><a href="https://iamu-edu.org/student-forum-2023/" target="_blank">IAMU Student Forum</a>, 2023, IMO Headquarters, London, UK.</em></div>
     <div class="links">
-      <a href="assets/files/TenHave2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-      <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Group Photo</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Farewell</a>
       <strong><i style="color:#7b5aa6">Workshop</i></strong>
     </div>
   </div>
