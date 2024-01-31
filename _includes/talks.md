@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/TenHave2023.pdf" target="_blank">Topic: Greener Shipping</a></div>
+    <div class="title">Topic: Greener Shipping</div>
     <div class="author">Group Member: <strong>Kaisen Yang</strong>, Thaddeus Tarpey</div>
     <div class="periodical"><em><a href="https://iamu-edu.org/student-forum-2023/" target="_blank">IAMU Student Forum</a>, 2023, IMO Headquarter, London, UK.</em></div>
     <div class="links">
