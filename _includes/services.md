@@ -18,7 +18,5 @@
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.amstat.org/" target="_blank"> American Statistical Association </a></li>
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.biometricsociety.org/home" target="_blank"> International Biometric Society </a></li>
-  <li><strong>[2021-2022]</strong> Chair of the <a href="https://nyu-medicine-cssa.github.io" target="_blank"> Chinese Student and Scholar Association (CSSA)</a> at Grossman School of Medicine, New York University</li>
+  <li><strong>[2020-2022]</strong> Co-Founder & President of the <a href="https://space.bilibili.com/479686973/video" target="_blank"> Spring Rain League of Students </a></li>
 </ul>
