@@ -12,8 +12,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/TenHave2023.pdf" target="_blank">K-Tensors: Clustering Postive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div>
+    <div class="title"><a href="assets/files/TenHave2023.pdf" target="_blank">Topic: Greener Shipping</a></div>
+    <div class="author">Group 3: <strong>Kaisen Yang</strong>, Thaddeus Tarpey</div>
     <div class="periodical"><em>IAMU Student Forum, 2023, IMO Headquarter, London, UK.</em></div>
     <div class="links">
       <a href="assets/files/TenHave2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
