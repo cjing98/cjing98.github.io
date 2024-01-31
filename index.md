@@ -7,7 +7,7 @@ layout: homepage
 I'm an <a href="https://en.wikipedia.org/wiki/Electrical_engineering"> Electrical Engineering</a> senior student at <a href="https://www.dlmu.edu.cn/"> Dalian Maritime University</a>'s <a href="https://cbdq.dlmu.edu.cn/"> College of Marine Electrical Engineering</a>. After attending the <a href="https://en.wikipedia.org/wiki/Gaokao"> Chinese College Entrance Examination</a>, which is also known as Gaokao, I was admitted to Marine Electrical and Electronic Engineering at Dalian Maritime University and switched my major due to my academic interests by the end of the first semester.
 
 In the summer of 2023, I gave up the opportunity to be directly admitted to graduate program at top universities in China and decided to pursue my academic goals overseas. 
-I will join the <a href="https://cpes.vt.edu/"> Center for Power Electronics Systems</a> at <a href="https://www.vt.edu/"> Virginia Tech</a> for my PhD starting from the fall semester of 2024, with the supervision of Prof. <a href="https://cpes.vt.edu/"> Qiang Li</a>. 
+I will join the <a href="https://cpes.vt.edu/"> Center for Power Electronics Systems</a> at <a href="https://www.vt.edu/"> Virginia Tech</a> for my PhD starting from the fall semester of 2024, with the supervision of Prof. <a href="https://cpes.vt.edu/people/faculty/1703"> Qiang Li</a>. 
 
 <!-- This kind of mark can hide sentences -->
 
