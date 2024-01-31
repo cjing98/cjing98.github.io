@@ -16,8 +16,8 @@
     <div class="author">Group Member: Alicja Krawczyk, Anders Pedersen, Bradley Barker, Hector Martinez, <strong>Kaisen Yang</strong>, Kashish, Otari Tvaradze, Pham Thi An Thu, Paul Szwed*, Phillip Belcher*</div>
     <div class="periodical"><em><a href="https://iamu-edu.org/student-forum-2023/" target="_blank">IAMU Student Forum</a>, 2023, IMO Headquarters, London, UK.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Group Photo</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Farewell</a>
+      <a href="assets/img/Group-Photo.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Group Photo</a>
+      <a href="assets/img/Farewell.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Farewell</a>
       <strong><i style="color:#7b5aa6">Workshop</i></strong>
     </div>
   </div>
