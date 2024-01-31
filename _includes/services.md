@@ -9,11 +9,11 @@
 </ul> -->
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
+<!-- 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.frontiersin.org" target="_blank"> Frontiers in Surgery </a></li>
   <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
-</ul>
+</ul> -->
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
