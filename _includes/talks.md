@@ -18,6 +18,7 @@
     <div class="links">
       <a href="assets/img/Group-Photo.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Group Photo</a>
       <a href="assets/img/Farewell.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Farewell</a>
+      <a href="assets/img/Tech-tour.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Technical Tour</a>
       <strong><i style="color:#7b5aa6">Workshop</i></strong>
     </div>
   </div>
