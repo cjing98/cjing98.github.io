@@ -8,13 +8,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/IAMU-Forum.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">IAMU Student Forum 2023</abbr>
+    <abbr class="badge">Student Forum</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/TenHave2023.pdf" target="_blank">K-Tensors: Clustering Postive Semi-Definite Matrices</a></div>
     <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div>
-    <div class="periodical"><em>Thomas R. Ten Have Symposium <strong>(TTHS)</strong>, Harvard University, 2023, Cambridge, MA.</em></div>
+    <div class="periodical"><em>IAMU Student Forum, IMO Headquarter, 2023, London, UK.</em></div>
     <div class="links">
       <a href="assets/files/TenHave2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
