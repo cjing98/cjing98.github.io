@@ -51,4 +51,4 @@ Entrepreneurship Competition
 
 ## Resources
 
-- <a href="assets/files/Flybook_for_DMUers4.10.pdf">*Flybook for DMUers*</a> by Kaisen Yang
+- <a href="assets/files/Flybook_for_DMUers_V1.pdf">*Flybook for DMUers*</a> by Kaisen Yang
