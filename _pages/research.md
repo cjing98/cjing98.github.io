@@ -59,3 +59,33 @@ author_profile: true
     </td>
   </tr>
 </table>
+
+
+<hr>
+
+<h2>Comparisons of Convergent Thinking Across Cultures</h2>
+
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <td style="width: 42%; vertical-align: top; border: none; text-align: center;">
+      <img src="/images/Brain Com1.png" alt="Brain patterns of E-RAT and C-RAT" style="max-width: 100%; height: auto;">
+      <p style="font-size: 0.8em; line-height: 1.4; margin-top: 8px;">
+        The general brain patterns of E-RAT and C-RAT.
+      </p>
+    </td>
+
+    <td style="width: 58%; vertical-align: top; padding-left: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
+      <p>
+        This project examines convergent thinking from a cross-cultural perspective by integrating behavioral evidence and neural findings. Focusing on the Remote Associates Test (RAT), I reviewed how different RAT versions, cultural thinking styles, and control strategies may contribute to differences in convergent thinking across Eastern and Western contexts.
+      </p>
+
+      <p>
+        The review suggests that convergent thinking is not driven by persistence alone. Western individuals may benefit from flexibility in generating remote and weaker associations, whereas Eastern individuals may foster convergent thinking through usefulness-oriented and holistic thinking styles. Neural evidence further shows both shared and distinct brain activation patterns across Chinese and English RAT tasks, offering a broader account of how culture may shape creative problem solving.
+      </p>
+
+      <p>
+        <strong>Keywords:</strong> convergent thinking, creativity, culture, remote associates test, neural mechanisms
+      </p>
+    </td>
+  </tr>
+</table>
