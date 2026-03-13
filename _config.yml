@@ -21,15 +21,14 @@ repository               : "cjing98/cjing98.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "/images/profile.png"
-  name             : #"Jing Chen"
-  pronouns         : "she/her"  
+  name             : "Jing Chen"
+  pronouns         : "she/her"
   bio              : "Ph.D. Student in Human Development and Family Science at Virginia Tech"
   location         : "Blacksburg, Virginia, USA"
   employer         : "Virginia Tech"
-  uri              : # URL
-  email            : "cjing98@vt.edu" 
+  uri              :
+  email            : "cjing98@vt.edu"
 
   # Academic websites
   academia         : # URL
