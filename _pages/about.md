@@ -14,4 +14,7 @@ My current work examines how children use interactive media and how child-AI sys
 
 My broader research interests include children's creativity, digital media use, semantic network development, storytelling, and AI-supported learning.
 
+I am a member of the [Cognitive Developmental Science Lab](https://kchoi.org/) at Virginia Tech.
+
 You can contact me at [cjing98@vt.edu](mailto:cjing98@vt.edu).
+
