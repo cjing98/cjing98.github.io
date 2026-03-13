@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jing Chen | Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Jing Chen"
@@ -22,7 +22,7 @@ repository               : "cjing98/cjing98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/IMG_5322.JPG"
+  avatar           : "/images/profile.png"
   name             : #"Jing Chen"
   pronouns         : "she/her"  
   bio              : "Ph.D. Student in Human Development and Family Science at Virginia Tech"
