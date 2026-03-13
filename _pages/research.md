@@ -89,3 +89,32 @@ author_profile: true
     </td>
   </tr>
 </table>
+
+<hr>
+
+<h2>Action-Based Divergent Thinking in Chinese Preschoolers</h2>
+
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <td style="width: 58%; vertical-align: top; padding-right: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
+      <p>
+        This project focuses on developing a culturally appropriate, action-based measure of divergent thinking for Chinese preschoolers. Building on the Unusual Box Test, we developed the Box Interaction Game (BIG) to better capture young children’s creative potential through hands-on exploration rather than verbal response.
+      </p>
+
+      <p>
+        The study showed that BIG provides a developmentally appropriate way to assess early creativity in children ages 3 to 6. The findings offered initial support for its reliability and validity, suggesting that action-based assessment may be a promising approach for studying divergent thinking in early childhood.
+      </p>
+
+      <p>
+        <strong>Keywords:</strong> preschool creativity, divergent thinking, assessment, action-based measurement, early childhood
+      </p>
+    </td>
+
+    <td style="width: 42%; vertical-align: top; border: none; text-align: center;">
+      <img src="/images/UBT1.png" alt="Field test of the Box Interaction Game" style="max-width: 100%; height: auto;">
+      <p style="font-size: 0.8em; line-height: 1.4; margin-top: 8px;">
+        An example of a field test.
+      </p>
+    </td>
+  </tr>
+</table>
