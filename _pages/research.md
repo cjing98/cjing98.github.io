@@ -10,14 +10,14 @@ author_profile: true
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
-    <td style="width: 42%; vertical-align: top; border: none; text-align: center;">
+    <td style="width: 50%; vertical-align: top; border: none; text-align: center;">
       <img src="/images/Network1.png" alt="Network model of parental factors and child screen use" style="max-width: 100%; height: auto;">
       <p style="font-size: 0.8em; line-height: 1.4; margin-top: 8px;">
         Network model of parental motives, beliefs, personality, and behavior and child screen use composed of the 20 variables.
       </p>
     </td>
 
-    <td style="width: 58%; vertical-align: top; padding-left: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
+    <td style="width: 50%; vertical-align: top; padding-left: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
       <p>
         This project examines how multiple parental factors are interconnected in shaping toddlers’ screen media use. Guided by the DREAMER framework, I used network analysis and Bayesian network modeling to investigate how parental motives, beliefs, personality, parenting stress, and parent screen use relate to child screen use within the broader family media ecology.
       </p>
@@ -37,7 +37,7 @@ author_profile: true
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
-    <td style="width: 58%; vertical-align: top; padding-right: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
+    <td style="width: 50%; vertical-align: top; padding-right: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
       <p>
         This project examines the cognitive mechanisms underlying creative thinking by integrating semantic network analysis with computational modeling. Using the Chinese Word Remote Associates Test, I constructed item-level semantic networks from free association data and applied a Spreading Activation Model to simulate how activation spreads across conceptual space during creative problem solving.
       </p>
@@ -51,7 +51,7 @@ author_profile: true
       </p>
     </td>
 
-    <td style="width: 42%; vertical-align: top; border: none; text-align: center;">
+    <td style="width: 50%; vertical-align: top; border: none; text-align: center;">
       <img src="/images/Network_hot_01.png" alt="Semantic network study figure" style="max-width: 100%; height: auto;">
       <p style="font-size: 0.8em; line-height: 1.4; margin-top: 8px;">
         Example semantic network and simulated activation patterns from the Chinese Word Remote Associates Test.
@@ -67,14 +67,14 @@ author_profile: true
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
-    <td style="width: 42%; vertical-align: top; border: none; text-align: center;">
+    <td style="width: 50%; vertical-align: top; border: none; text-align: center;">
       <img src="/images/Brain Com1.png" alt="Brain patterns of E-RAT and C-RAT" style="max-width: 100%; height: auto;">
       <p style="font-size: 0.8em; line-height: 1.4; margin-top: 8px;">
         The general brain patterns of E-RAT and C-RAT.
       </p>
     </td>
 
-    <td style="width: 58%; vertical-align: top; padding-left: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
+    <td style="width: 50%; vertical-align: top; padding-left: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
       <p>
         This project examines convergent thinking from a cross-cultural perspective by integrating behavioral evidence and neural findings. Focusing on the Remote Associates Test (RAT), I reviewed how different RAT versions, cultural thinking styles, and control strategies may contribute to differences in convergent thinking across Eastern and Western contexts.
       </p>
@@ -96,7 +96,7 @@ author_profile: true
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
-    <td style="width: 58%; vertical-align: top; padding-right: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
+    <td style="width: 50%; vertical-align: top; padding-right: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
       <p>
         This project focuses on developing a culturally appropriate, action-based measure of divergent thinking for Chinese preschoolers. Building on the Unusual Box Test, we developed the Box Interaction Game (BIG) to better capture young children’s creative potential through hands-on exploration rather than verbal response.
       </p>
@@ -110,7 +110,7 @@ author_profile: true
       </p>
     </td>
 
-    <td style="width: 42%; vertical-align: top; border: none; text-align: center;">
+    <td style="width: 50%; vertical-align: top; border: none; text-align: center;">
       <img src="/images/UBT1.png" alt="Field test of the Box Interaction Game" style="max-width: 100%; height: auto;">
       <p style="font-size: 0.8em; line-height: 1.4; margin-top: 8px;">
         An example of a field test.
