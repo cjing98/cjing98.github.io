@@ -4,6 +4,35 @@ title: "Research"
 author_profile: true
 ---
 
+<hr>
+
+<h2>Parental Factors in Toddler Media Use</h2>
+
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <td style="width: 42%; vertical-align: top; border: none; text-align: center;">
+      <img src="/images/Network1.png" alt="Network model of parental factors and child screen use" style="max-width: 100%; height: auto;">
+      <p style="font-size: 0.8em; line-height: 1.4; margin-top: 8px;">
+        Network model of parental motives, beliefs, personality, and behavior and child screen use composed of the 20 variables.
+      </p>
+    </td>
+
+    <td style="width: 58%; vertical-align: top; padding-left: 24px; border: none; font-size: 0.95em; line-height: 1.6;">
+      <p>
+        This project examines how multiple parental factors are interconnected in shaping toddlers’ screen media use. Guided by the DREAMER framework, I used network analysis and Bayesian network modeling to investigate how parental motives, beliefs, personality, parenting stress, and parent screen use relate to child screen use within the broader family media ecology.
+      </p>
+
+      <p>
+        The findings suggest that child screen use functions as a bridging node linking otherwise distinct parental factors. Three central nodes emerged in the network: parental belief about interactive media, parent-child dysfunctional interaction, and the parental motive to help the child relax. The results also suggest an indirect pathway in which parent screen use is associated with child screen use through dysfunctional parent-child interaction.
+      </p>
+
+      <p>
+        <strong>Keywords:</strong> child screen use, parenting stress, media motives, media beliefs, network analysis
+      </p>
+    </td>
+  </tr>
+</table>
+
 <h2>Cognitive Mechanisms of Creative Thinking</h2>
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
