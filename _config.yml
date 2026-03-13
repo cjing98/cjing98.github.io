@@ -22,8 +22,8 @@ repository               : "cjing98/cjing98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/IMG_2992.JPG"
-  name             : "Jing Chen"
+  avatar           : "/images/IMG_5322.JPG"
+  name             : #"Jing Chen"
   pronouns         : "she/her"  
   bio              : "Ph.D. Student in Human Development and Family Science at Virginia Tech"
   location         : "Blacksburg, Virginia, USA"
