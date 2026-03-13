@@ -41,3 +41,28 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Widen the main content area while keeping the left sidebar */
+@media (min-width: 80em) {
+  .page {
+    width: calc(100% - 260px);
+    padding-right: 2rem;
+  }
+
+  .page__inner-wrap {
+    max-width: 1400px;
+  }
+
+  .page__content {
+    font-size: 0.95em;
+  }
+}
+
+@media (min-width: 100em) {
+  .page {
+    width: calc(100% - 280px);
+  }
+
+  .page__inner-wrap {
+    max-width: 1600px;
+  }
+}
